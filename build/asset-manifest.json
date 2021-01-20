@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.739cab1a.chunk.css",
+    "main.js": "/static/js/main.65778c0d.chunk.js",
+    "main.js.map": "/static/js/main.65778c0d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e7310a31.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e7310a31.js.map",
+    "static/js/2.4d3d53d0.chunk.js": "/static/js/2.4d3d53d0.chunk.js",
+    "static/js/2.4d3d53d0.chunk.js.map": "/static/js/2.4d3d53d0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8f535b4664a5503afc6386828f5c7b38.js": "/precache-manifest.8f535b4664a5503afc6386828f5c7b38.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.739cab1a.chunk.css.map": "/static/css/main.739cab1a.chunk.css.map",
+    "static/js/2.4d3d53d0.chunk.js.LICENSE.txt": "/static/js/2.4d3d53d0.chunk.js.LICENSE.txt",
+    "static/media/back.svg": "/static/media/back.80e9b312.svg",
+    "static/media/delete.svg": "/static/media/delete.dbd9a29d.svg",
+    "static/media/handshake.svg": "/static/media/handshake.be75cf84.svg",
+    "static/media/purple-heart.svg": "/static/media/purple-heart.5f50f59f.svg",
+    "static/media/sos.svg": "/static/media/sos.a9171846.svg",
+    "static/media/warning.svg": "/static/media/warning.1b8b6ec3.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.45c6e6ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7310a31.js",
+    "static/js/2.4d3d53d0.chunk.js",
+    "static/css/main.739cab1a.chunk.css",
+    "static/js/main.65778c0d.chunk.js"
+  ]
+}
